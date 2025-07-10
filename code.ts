@@ -1,4 +1,4 @@
-figma.showUI(__html__, { width: 250, height: 260 });
+figma.showUI(__html__, { width: 250, height: 280 });
 
 let data: { id: string; characters: string }[] | undefined;
 
